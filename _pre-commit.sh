@@ -1,7 +1,7 @@
 #!/bin/sh
-#
+# in [ y ./git/hooks ]; then
 # Bumps the micro version according to the number of commits on this branch
-#
+# ni   . ./git/hooks
 # To have git run this script on commit, create a "pre-commit" text file in
 # .git/hooks/ with the following content:
 # #!/bin/sh
